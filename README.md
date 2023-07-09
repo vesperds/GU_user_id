@@ -6,7 +6,7 @@ This repository contains the executable file for the Extract User ID GUI applica
 
 ## Overview
 
-The Extract User ID GUI is a tool that allows users to extract user IDs from a given input. It provides a graphical interface for a simplified user experience.
+The Extract User ID GUI is a tool that allows users to extract user IDs from the player.log file. It provides a graphical interface for a simplified user experience.
 
 ## Getting Started
 
@@ -18,9 +18,9 @@ To use the Extract User ID GUI, follow these steps:
 
 3. **Run**: Double-click on the `extract_user_id_gui.exe` file to launch the application.
 
-4. **Input**: Provide the necessary input data as prompted by the GUI.
+4. **Input**: the player.log file stored locally
 
-5. **Output**: The application will process the input and extract the user IDs, displaying the results within the GUI.
+5. **Output**: The application will automatically process the input and extract the user_id, displaying the results within the GUI.
 
 ## System Requirements
 
